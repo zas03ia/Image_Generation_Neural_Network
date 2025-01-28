@@ -1,0 +1,45 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# IDE/editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+*.cover
+*.log
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+sdist/
+wheels/
+
+# Python wheel
+*.whl
+
+# Cython debug symbols
+cython_debug/
+
+# Miscellaneous
+*.bak
+*.tmp
